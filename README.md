@@ -15,3 +15,5 @@ Temas aprendidos durante la práctica:
 - Creación y uso de ramas.
 - Pull Requests y fusión de cambios.
 - Consulta del historial de modificaciones.
+
+Lo que más me ha gustado del curso son las guías y herramientas que ofrece para aprender sobre nuevos entornos
